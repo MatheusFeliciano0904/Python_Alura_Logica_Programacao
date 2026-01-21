@@ -88,7 +88,7 @@ em branco em relação ao total de votos.
 
 ```
 
-# Estruturas de Dados
+# Dados Estruturados
 
 ## Questão 1
 ```
