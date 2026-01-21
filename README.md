@@ -1,8 +1,8 @@
-# RELEMBRANDO CONCEITOS
+## RELEMBRANDO CONCEITOS
 
-# Algumas Questões em Python:
+## Algumas Questões em Python:
 
-###### Estruturas de Condição
+# Estruturas de Condição
 
 
 ## Questão 1
@@ -40,7 +40,7 @@ Para bonificações abaixo de -10%: corte de gastos.
 ```
 
 
-###### Estruturas de Repetição
+# Estruturas de Repetição
 
 
 ## Questão 1
@@ -74,7 +74,7 @@ Ao final da votação, o programa deve exibir o total de votos para cada candida
 
 ```
 
-###### Estruturas de Dados
+# Estruturas de Dados
 
 ## Questão 1
 ```
